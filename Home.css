@@ -11,6 +11,8 @@
   font-size: 4.5rem;
   width: 770px;
   text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  font-weight: normal;
+  font-family: Oswald, sans-serif;
   margin: 127px auto 0;
 }
 
@@ -30,7 +32,6 @@
 
   .u-section-1 .u-text-1 {
     font-weight: 400;
-    font-family: Oswald, sans-serif;
   }
 }
 
