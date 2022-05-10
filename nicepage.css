@@ -36561,13 +36561,13 @@ a.u-link.u-text-hover-grey-90:hover {
 
 /*end-variables sitestylecss*/
 .u-header .u-sheet-1 {
-  min-height: 80px;
+  min-height: 88px;
 }
 
 .u-header .u-image-1 {
-  width: 91px;
+  width: 90px;
   height: 64px;
-  margin: 24px auto 24px 0;
+  margin: 12px auto 0 0;
 }
 
 .u-header .u-logo-image-1 {
@@ -36575,16 +36575,30 @@ a.u-link.u-text-hover-grey-90:hover {
   height: 100%;
 }
 
+.u-header .u-menu-1 {
+  margin: -50px 0 14px auto;
+}
+
+.u-header .u-nav-1 {
+  font-weight: 500;
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+
+.u-header .u-nav-2 {
+  font-size: 1.25rem;
+}
+
 .u-header .embed-responsive-1 {
   position: absolute;
   width: 100%;
   left: 0%;
-  height: 1968%;
-  top: -934%;
+  height: 2505%;
+  top: -1203%;
 }
 @media (max-width: 1199px) {
-  .u-header .u-image-1 {
-    width: 91px;
+  .u-header .u-nav-1 {
+    letter-spacing: normal;
   }
 
   .u-header .embed-responsive-1 {
